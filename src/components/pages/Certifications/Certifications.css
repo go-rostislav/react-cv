@@ -1,0 +1,23 @@
+.certification-thumbnail {
+    width: 300px;
+}
+.certifications-gallery {
+    grid-template-columns: repeat(4, minmax(6rem, max-content));
+    gap: 20px;
+}
+.certifications-gallery a:hover  {
+    transition: all ease .4s;
+    color: #f4ce14;
+}
+.certifications-gallery p {
+    text-align: center;
+}
+.certification-item {
+    cursor: pointer;
+}
+
+@media (max-width: 992px) {
+    .certifications-gallery {
+        grid-template-columns: repeat(auto-fill, minmax(200px, max-content));
+    }
+}
