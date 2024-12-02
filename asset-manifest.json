@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-cv/static/css/main.07704050.css",
-    "main.js": "/react-cv/static/js/main.7e055d00.js",
+    "main.js": "/react-cv/static/js/main.99b5f715.js",
     "static/js/453.dc9cd6b4.chunk.js": "/react-cv/static/js/453.dc9cd6b4.chunk.js",
     "static/media/Coursera-Main-Meta-Professional-Sertificate.jpg": "/react-cv/static/media/Coursera-Main-Meta-Professional-Sertificate.4e03e29d7f390204119b.jpg",
     "static/media/Coursera-Introduce-to-Front-End-Development.jpg": "/react-cv/static/media/Coursera-Introduce-to-Front-End-Development.9d1c28005db6f7da63c5.jpg",
@@ -20,11 +20,11 @@
     "static/media/logo-white.png": "/react-cv/static/media/logo-white.2e183e340140d669a150.png",
     "index.html": "/react-cv/index.html",
     "main.07704050.css.map": "/react-cv/static/css/main.07704050.css.map",
-    "main.7e055d00.js.map": "/react-cv/static/js/main.7e055d00.js.map",
+    "main.99b5f715.js.map": "/react-cv/static/js/main.99b5f715.js.map",
     "453.dc9cd6b4.chunk.js.map": "/react-cv/static/js/453.dc9cd6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07704050.css",
-    "static/js/main.7e055d00.js"
+    "static/js/main.99b5f715.js"
   ]
 }
