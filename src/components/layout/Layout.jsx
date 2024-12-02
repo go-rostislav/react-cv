@@ -5,22 +5,22 @@ const Layout = ({ children }) => {
   const navLinks = [
     {
       name: "Home",
-      path: "/react-cv/home",
+      path: "/home",
       hashLink: true,
     },
     {
       name: "About Me",
-      path: "/react-cv/about-me",
+      path: "/about-me",
       hashLink: true,
     },
     {
       name: "Skills",
-      path: "/react-cv/skills",
+      path: "/skills",
       hashLink: false,
     },
     {
       name: "Certification",
-      path: "/react-cv/certification",
+      path: "/certification",
       hashLink: true,
     },
   ];
