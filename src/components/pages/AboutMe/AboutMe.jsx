@@ -19,7 +19,7 @@ const AboutMe = () => {
             <div>
                 To strengthen my expertise, I have completed:
                 <ul className={"list"}>
-                    <li className={"list__item"}>Meta’s Professional Certificate in React Frontend Development, where I mastered advanced React concepts and frontend development best practices.</li>
+                    <li className={"list__item"}><strong>Meta’s Professional Certificate in React Frontend Development,</strong> where I mastered advanced React concepts and frontend development best practices.</li>
                     <li className={"list__item"}><strong>Gopass C# Developer Training,</strong> focusing on building robust applications with C# and .NET.</li>
                 </ul>
             </div>

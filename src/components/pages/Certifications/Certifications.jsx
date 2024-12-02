@@ -11,6 +11,8 @@ import certHTMLCSSDepth from "./assets/Coursera-HTML-and-CSS-in-depth.jpg"
 import certCodingInterview from "./assets/Coursera-Coding-Interview-Preparation.jpg"
 import certAdvancedReact from "./assets/Coursera-Advanced-React.jpg"
 import certDevCapstone from "./assets/Coursera-Developer-Capstone.jpg"
+import certGoPassAjax from "./assets/GoPass-AJAX.jpg"
+import certGoPassCsharp from "./assets/GoPass-Charp.jpg"
 
 
 const Certifications = () => {
@@ -27,6 +29,16 @@ const Certifications = () => {
             title: "Meta Advanced React",
             imageSrc: certAdvancedReact,
             url: "https://coursera.org/share/d3da70e9b96535fbb466da7bc0d126b4",
+        },
+        {
+            title: "GoPass Programming with Ajax & JavaScript",
+            imageSrc: certGoPassAjax,
+            url: "",
+        },
+        {
+            title: "GoPass Programming with C#, .net",
+            imageSrc: certGoPassCsharp,
+            url: "",
         },
         {
             title: "Meta React Frontend Developer",

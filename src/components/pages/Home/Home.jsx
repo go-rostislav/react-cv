@@ -7,7 +7,7 @@ import Skills from "../Skills/Skills";
 const Home = () => {
   return (
     <>
-      <div className="container flex justify-space-between mt-30 mb-30 mob">
+      <div className="container flex justify-space-between mt-30 mb-30 mob h500">
         <div className={"align-self-center"}>
           <img className={"avatar border-radius-15"} src={MyPhoto} alt="Rostyslav Honcharov"/>
         </div>
