@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/react-cv/home/static/css/main.07704050.css",
-    "main.js": "/react-cv/home/static/js/main.68ed2e00.js",
-    "static/js/453.dc9cd6b4.chunk.js": "/react-cv/home/static/js/453.dc9cd6b4.chunk.js",
-    "static/media/Coursera-Main-Meta-Professional-Sertificate.jpg": "/react-cv/home/static/media/Coursera-Main-Meta-Professional-Sertificate.4e03e29d7f390204119b.jpg",
-    "static/media/Coursera-Introduce-to-Front-End-Development.jpg": "/react-cv/home/static/media/Coursera-Introduce-to-Front-End-Development.9d1c28005db6f7da63c5.jpg",
-    "static/media/Coursera-Programming-with-JavaScript.jpg": "/react-cv/home/static/media/Coursera-Programming-with-JavaScript.4abc2c71cbf27dfea2f6.jpg",
-    "static/media/Coursera-HTML-and-CSS-in-depth.jpg": "/react-cv/home/static/media/Coursera-HTML-and-CSS-in-depth.08343312d211766c8ef2.jpg",
-    "static/media/Coursera-Version-Control.jpg": "/react-cv/home/static/media/Coursera-Version-Control.29c3e1337d8bac77c1d7.jpg",
-    "static/media/Coursera-Developer-Capstone.jpg": "/react-cv/home/static/media/Coursera-Developer-Capstone.95d331a810d512b810ad.jpg",
-    "static/media/Coursera-Coding-Interview-Preparation.jpg": "/react-cv/home/static/media/Coursera-Coding-Interview-Preparation.fcbaa95397bd266db3e8.jpg",
-    "static/media/Coursera-Principles-of-UX-UI-Design.jpg": "/react-cv/home/static/media/Coursera-Principles-of-UX-UI-Design.686a75e84ecc8979f3bb.jpg",
-    "static/media/Coursera-Advanced-React.jpg": "/react-cv/home/static/media/Coursera-Advanced-React.86f169a8a957ebfb71bd.jpg",
-    "static/media/Coursera-React-Basic.jpg": "/react-cv/home/static/media/Coursera-React-Basic.c84d8e1ae02c1a3ac1bf.jpg",
-    "static/media/GoPass-Charp.jpg": "/react-cv/home/static/media/GoPass-Charp.bfe0c93db4846df226f1.jpg",
-    "static/media/GoPass-AJAX.jpg": "/react-cv/home/static/media/GoPass-AJAX.2285d45ca13faca5d5e1.jpg",
-    "static/media/my-photo.jpg": "/react-cv/home/static/media/my-photo.b9592b9eb377743dda0c.jpg",
-    "static/media/logo-black.png": "/react-cv/home/static/media/logo-black.869b4acffa50c828b6fb.png",
-    "static/media/logo-white.png": "/react-cv/home/static/media/logo-white.2e183e340140d669a150.png",
-    "index.html": "/react-cv/home/index.html",
-    "main.07704050.css.map": "/react-cv/home/static/css/main.07704050.css.map",
-    "main.68ed2e00.js.map": "/react-cv/home/static/js/main.68ed2e00.js.map",
-    "453.dc9cd6b4.chunk.js.map": "/react-cv/home/static/js/453.dc9cd6b4.chunk.js.map"
+    "main.css": "/react-cv/static/css/main.07704050.css",
+    "main.js": "/react-cv/static/js/main.7e055d00.js",
+    "static/js/453.dc9cd6b4.chunk.js": "/react-cv/static/js/453.dc9cd6b4.chunk.js",
+    "static/media/Coursera-Main-Meta-Professional-Sertificate.jpg": "/react-cv/static/media/Coursera-Main-Meta-Professional-Sertificate.4e03e29d7f390204119b.jpg",
+    "static/media/Coursera-Introduce-to-Front-End-Development.jpg": "/react-cv/static/media/Coursera-Introduce-to-Front-End-Development.9d1c28005db6f7da63c5.jpg",
+    "static/media/Coursera-Programming-with-JavaScript.jpg": "/react-cv/static/media/Coursera-Programming-with-JavaScript.4abc2c71cbf27dfea2f6.jpg",
+    "static/media/Coursera-HTML-and-CSS-in-depth.jpg": "/react-cv/static/media/Coursera-HTML-and-CSS-in-depth.08343312d211766c8ef2.jpg",
+    "static/media/Coursera-Version-Control.jpg": "/react-cv/static/media/Coursera-Version-Control.29c3e1337d8bac77c1d7.jpg",
+    "static/media/Coursera-Developer-Capstone.jpg": "/react-cv/static/media/Coursera-Developer-Capstone.95d331a810d512b810ad.jpg",
+    "static/media/Coursera-Coding-Interview-Preparation.jpg": "/react-cv/static/media/Coursera-Coding-Interview-Preparation.fcbaa95397bd266db3e8.jpg",
+    "static/media/Coursera-Principles-of-UX-UI-Design.jpg": "/react-cv/static/media/Coursera-Principles-of-UX-UI-Design.686a75e84ecc8979f3bb.jpg",
+    "static/media/Coursera-Advanced-React.jpg": "/react-cv/static/media/Coursera-Advanced-React.86f169a8a957ebfb71bd.jpg",
+    "static/media/Coursera-React-Basic.jpg": "/react-cv/static/media/Coursera-React-Basic.c84d8e1ae02c1a3ac1bf.jpg",
+    "static/media/GoPass-Charp.jpg": "/react-cv/static/media/GoPass-Charp.bfe0c93db4846df226f1.jpg",
+    "static/media/GoPass-AJAX.jpg": "/react-cv/static/media/GoPass-AJAX.2285d45ca13faca5d5e1.jpg",
+    "static/media/my-photo.jpg": "/react-cv/static/media/my-photo.b9592b9eb377743dda0c.jpg",
+    "static/media/logo-black.png": "/react-cv/static/media/logo-black.869b4acffa50c828b6fb.png",
+    "static/media/logo-white.png": "/react-cv/static/media/logo-white.2e183e340140d669a150.png",
+    "index.html": "/react-cv/index.html",
+    "main.07704050.css.map": "/react-cv/static/css/main.07704050.css.map",
+    "main.7e055d00.js.map": "/react-cv/static/js/main.7e055d00.js.map",
+    "453.dc9cd6b4.chunk.js.map": "/react-cv/static/js/453.dc9cd6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07704050.css",
-    "static/js/main.68ed2e00.js"
+    "static/js/main.7e055d00.js"
   ]
 }
