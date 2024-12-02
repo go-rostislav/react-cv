@@ -12,8 +12,8 @@ const Header = ({ navLinks }) => {
   return (
     <header>
       <nav className="container grid nav-bar">
-        <HashLink className="nav-bar-logo" to="/">
-          <img src={logoImage} alt="Little Lemon logo" />
+        <HashLink className="nav-bar-logo" to="/home">
+          <img src={logoImage} alt="Logo Rostyslav Honcharov" />
         </HashLink>
         <button
           className="nav-bar-hamburger"
