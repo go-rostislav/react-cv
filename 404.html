@@ -1,0 +1,6 @@
+<script>
+    var redirect = window.location.pathname;
+    if (!redirect.includes('/index.html')) {
+        window.location.href = 'react-cv' + redirect;
+    }
+</script>
