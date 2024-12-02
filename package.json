@@ -2,7 +2,7 @@
   "name": "react-cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://go-rostislav.github.io/#home",
+  "homepage": "https://go-rostislav.github.io/react-cv#home",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
