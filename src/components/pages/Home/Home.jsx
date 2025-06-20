@@ -16,7 +16,7 @@ const Home = () => {
           <div>
             <h3>OFFICEO s.r.o</h3>
             <em>C# Developer / Full-stack Developer</em>
-            <h3>January 2024 — Present</h3>
+            <h3>January 2023 — Present</h3>
             <ul className={"list"}>
               <li className={"list__item"}>Developing and maintaining internal company applications aimed at improving
                 operational efficiency.
@@ -41,7 +41,7 @@ const Home = () => {
           <div className={"mt-30"}>
             <h3>CIS s.r.o</h3>
             <em>Junior Front-end Developer</em>
-            <h3>May 2023 — December 2023 (7 months)</h3>
+            <h3>May 2022 — December 2022 (7 months)</h3>
             <ul className={"list"}>
               <li className={"list__item"}>Contributed to the development and maintenance of complex web projects for
                 diverse clients.
