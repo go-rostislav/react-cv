@@ -1,4 +1,4 @@
-import MyPhoto from "./assets/my-photo.jpg";
+import MyPhoto from "./assets/RH.jpg";
 import "./Home.css"
 import {Link, Route, Routes} from "react-router-dom";
 import Certifications from "../Certifications/Certifications";
@@ -15,47 +15,33 @@ const Home = () => {
           <h1>Rostyslav Honcharov</h1>
           <div>
             <h3>OFFICEO s.r.o</h3>
-            <em>C# Developer / Full-stack Developer</em>
-            <h3>January 2023 — Present</h3>
+              <div>
+                  <strong>C# Developer / Full-stack Developer |<span> OFFICEO - Hostivice</span></strong>
+                  <em> 01/2023 - Current </em>
+              </div>
+              <div className={"mt-15"}>
+                  <Link to={"https://online.officeo.cz/"} target={"_blank"}><strong>E-commerce OFFICEO</strong></Link>
+              </div>
             <ul className={"list"}>
-              <li className={"list__item"}>Developing and maintaining internal company applications aimed at improving
-                operational efficiency.
-              </li>
-              <li className={"list__item"}>Utilizing a tech stack that includes C#, JavaScript, jQuery, HTML, CSS, and
-                SQL databases.
-              </li>
-              <li className={"list__item"}>Optimized database operations by refining complex queries and data
-                structures.
-              </li>
-              <li className={"list__item"}>Participating in application architecture design, implementing new features,
-                and enhancing the user interface.
-              </li>
-              <li className={"list__item"}>Collaborating with various departments to align projects with business
-                goals.
-              </li>
-              <li className={"list__item"}>Working with designers to create visually appealing and user-friendly
-                interfaces using Figma and Affinity Designer.
+              <li className={"list__item"}>Developed an e‑commerce website and intranet using C#, JavaScript, jQuery, HTML,
+                  CSS, and SQL.
               </li>
             </ul>
           </div>
           <div className={"mt-30"}>
             <h3>CIS s.r.o</h3>
-            <em>Junior Front-end Developer</em>
-            <h3>May 2022 — December 2022 (7 months)</h3>
+            <div>
+                <strong>Junior Front-end Developer |</strong><span> CIS S.r.o - Jičín</span><em> 05/2022 - 12/2022</em>
+            </div>
             <ul className={"list"}>
-              <li className={"list__item"}>Contributed to the development and maintenance of complex web projects for
-                diverse clients.
-              </li>
-              <li className={"list__item"}>Worked with a wide range of modern technologies: PHP, JavaScript, HTML, CSS,
-                Vue.js, Docker, and SQL databases.
-              </li>
-              <li className={"list__item"}>Enhanced application performance and implemented new functional modules.</li>
-              <li className={"list__item"}>Collaborated closely with designers, QA engineers, and project managers to
-                ensure high-quality deliverables.
-              </li>
-              <li className={"list__item"}>Participated in UI/UX design processes using Figma and Affinity Designer
-                tools.
-              </li>
+                <div className={"mt-15"}>
+                    <Link to={"https://www.cis.cz/"} target={"_blank"}><strong>CIS s.r.o.</strong></Link>
+                    <Link to={"https://www.kavon.cz/"} target={"_blank"}><strong> Kavon</strong></Link>
+                    <Link to={"https://www.telemark.cz/"} target={"_blank"}><strong> Sagita(Telemark)</strong></Link>
+                </div>
+                <li className={"list__item"}>Developed different an e‑commerce website using: PHP, JavaScript, HTML, CSS, Vue.js, and SQL
+                    databases.
+                </li>
             </ul>
           </div>
           <div className={"mt-30"}>

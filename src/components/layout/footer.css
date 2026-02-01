@@ -5,7 +5,7 @@
   height: 18rem;
   display: grid;
   gap: 2rem;
-  justify-content: space-evenly;
+  justify-content: space-between;
   grid-template-columns: repeat(4, minmax(6rem, max-content));
 }
 
@@ -39,7 +39,13 @@
 .site-footer-contact svg {
   margin-right: 0.5rem;
 }
-
+.site-footer-contact address {
+    display: flex;
+    flex-direction: column;
+}
+.site-footer-contact address a {
+    margin-bottom: 0.25rem;
+}
 .site-footer-contact p {
   margin-bottom: 0.25rem;
 }

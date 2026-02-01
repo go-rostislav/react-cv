@@ -1,6 +1,6 @@
 import {
-    faInstagram,
-     faTiktok,
+    faInstagram, faLinkedin,
+    faTiktok,
 } from "@fortawesome/free-brands-svg-icons";
 import {
   faEnvelope,
@@ -13,12 +13,13 @@ import "./footer.css";
 import logoWhiteImage from "./assets/logo-white.png";
 
 const contacts = [
-  { icon: faLocationDot, info: "Kladno, Czech Republic" },
-  { icon: faPhone, info: "+420 736 548 700" },
-  { icon: faEnvelope, info: "skapik7@gmail.com" },
+  { icon: faLocationDot, info: "Kladno, Czech Republic", link: "https://www.google.com/maps/search/?api=1&query=Kladno,+Czech+Republic" },
+  { icon: faPhone, info: "+420 736 548 700", link: "tel:+420736548700" },
+  { icon: faEnvelope, info: "skapik7@gmail.com", link: "mailto:skapik7@gmail.com"  },
 ];
 
 const socials = [
+    {icon: faLinkedin, name: "linkedin", url: "https://www.linkedin.com/in/rostyslav-honcharov"},
     { icon: faInstagram, name: "instagram", url: "https://www.instagram.com/go_rostislav/profilecard/?igsh=MWd5czR5NjY0ZHRobA==" },
     { icon: faTiktok, name: "tiktok", url: "https://www.tiktok.com/@codecraftstricks" },
 ];
@@ -29,7 +30,7 @@ const Footer = ({ navLinks }) => {
       <img
         className="site-footer-logo"
         src={logoWhiteImage}
-        alt="Little Lemon"
+        alt="Rostyslav Honcharov logo"
       />
       <nav className="site-footer-nav">
         <h4>Sitemap</h4>
@@ -42,12 +43,12 @@ const Footer = ({ navLinks }) => {
         </ul>
       </nav>
       <div className="site-footer-contact">
-        <h4>Contact us</h4>
+        <h4>My contacts</h4>
         <address>
           {contacts.map((contact, index) => (
-            <p key={index}>
+            <HashLink to={contact.link} key={index}>
               <FontAwesomeIcon icon={contact.icon} /> {contact.info}
-            </p>
+            </HashLink>
           ))}
         </address>
       </div>
@@ -57,7 +58,8 @@ const Footer = ({ navLinks }) => {
           <a
             key={index}
             href={social.url}
-            //target="_blank"
+            target={"_blank"}
+            rel="noopener noreferrer"
           >
             <FontAwesomeIcon icon={social.icon} size="lg" />
           </a>

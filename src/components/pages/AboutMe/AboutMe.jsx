@@ -9,7 +9,7 @@ const AboutMe = () => {
                 My name is <strong>Rostyslav Honcharov,</strong> and I am a developer with experience in creating web applications and internal systems, leveraging modern technologies to deliver outstanding results.
             </div>
             <div>
-                I was born in Ukraine, and I currently live and work in Kladno, Czech Republic.
+                I was born in Ukraine, and I currently live and work in Czech Republic.
             </div>
             <div>
                 My professional motto is <strong>to grow, create, and share knowledge.</strong>

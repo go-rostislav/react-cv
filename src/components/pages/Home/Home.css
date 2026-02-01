@@ -13,3 +13,7 @@
     background-color: #495e57;
     color: #f4ce14;
 }
+a:hover {
+    color: black;
+    transition: all .3s ease-in-out;
+}
