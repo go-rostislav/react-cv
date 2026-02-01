@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-cv/static/css/main.07704050.css",
-    "main.js": "/react-cv/static/js/main.b8a8ab2e.js",
-    "static/js/453.dc9cd6b4.chunk.js": "/react-cv/static/js/453.dc9cd6b4.chunk.js",
+    "main.css": "/react-cv/static/css/main.e20929aa.css",
+    "main.js": "/react-cv/static/js/main.8f8fa1b4.js",
+    "static/js/453.99965d8f.chunk.js": "/react-cv/static/js/453.99965d8f.chunk.js",
     "static/media/Coursera-Main-Meta-Professional-Sertificate.jpg": "/react-cv/static/media/Coursera-Main-Meta-Professional-Sertificate.4e03e29d7f390204119b.jpg",
     "static/media/Coursera-Introduce-to-Front-End-Development.jpg": "/react-cv/static/media/Coursera-Introduce-to-Front-End-Development.9d1c28005db6f7da63c5.jpg",
     "static/media/Coursera-Programming-with-JavaScript.jpg": "/react-cv/static/media/Coursera-Programming-with-JavaScript.4abc2c71cbf27dfea2f6.jpg",
@@ -15,16 +15,16 @@
     "static/media/Coursera-React-Basic.jpg": "/react-cv/static/media/Coursera-React-Basic.c84d8e1ae02c1a3ac1bf.jpg",
     "static/media/GoPass-Charp.jpg": "/react-cv/static/media/GoPass-Charp.bfe0c93db4846df226f1.jpg",
     "static/media/GoPass-AJAX.jpg": "/react-cv/static/media/GoPass-AJAX.2285d45ca13faca5d5e1.jpg",
-    "static/media/my-photo.jpg": "/react-cv/static/media/my-photo.b9592b9eb377743dda0c.jpg",
+    "static/media/RH.jpg": "/react-cv/static/media/RH.e78de7cd33eba077fa7b.jpg",
     "static/media/logo-black.png": "/react-cv/static/media/logo-black.869b4acffa50c828b6fb.png",
     "static/media/logo-white.png": "/react-cv/static/media/logo-white.2e183e340140d669a150.png",
     "index.html": "/react-cv/index.html",
-    "main.07704050.css.map": "/react-cv/static/css/main.07704050.css.map",
-    "main.b8a8ab2e.js.map": "/react-cv/static/js/main.b8a8ab2e.js.map",
-    "453.dc9cd6b4.chunk.js.map": "/react-cv/static/js/453.dc9cd6b4.chunk.js.map"
+    "main.e20929aa.css.map": "/react-cv/static/css/main.e20929aa.css.map",
+    "main.8f8fa1b4.js.map": "/react-cv/static/js/main.8f8fa1b4.js.map",
+    "453.99965d8f.chunk.js.map": "/react-cv/static/js/453.99965d8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07704050.css",
-    "static/js/main.b8a8ab2e.js"
+    "static/css/main.e20929aa.css",
+    "static/js/main.8f8fa1b4.js"
   ]
 }
